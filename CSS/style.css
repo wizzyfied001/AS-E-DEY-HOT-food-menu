@@ -1,0 +1,92 @@
+body{
+	background: black;
+	font-family: arial,vardana,sans-serif;
+}
+   #box-1{
+   	background-color: red;
+   	text-align: center;
+   	width: 850px;
+   	margin: auto;
+   	padding-bottom: 8px;
+   	padding-top: 5px;
+   	
+   	
+   	font-family: 'Pinyon Script', cursive;
+   	font-size: 25px;
+   	color: white;
+   	font-weight: bold;
+
+   }
+
+ #container{
+	background:white;
+	border: 1;
+	width: 850px;
+	margin: auto;
+	padding-bottom: 15px;
+		
+ }
+ #container table{
+ 	width: 750px;
+ 	margin: auto;
+ 	border: 2;
+ 	border-collapse: collapse;
+ }
+ #container table td,th{
+ 	border: 1px solid black;
+ 	text-align: center;
+ }
+ #container table th{
+ 	border: 1px solid black;
+ 	text-align: center;
+ 	background: black;
+ 	color: white;
+ }
+ 
+  
+  #container table tr{
+ 	height: 45px;
+ }
+ #container table tr:hover{
+ 	background:greenyellow;
+ }
+ 
+ #menu{
+ 	background-color: white;
+ 	text-align: center;
+ 	width: 850px;
+ 	margin: auto;
+ 	padding-top: 2em;
+ 	padding-bottom: 15px;
+ 
+ 	font-family: 'Pinyon Script', cursive;
+ 	font-weight: bolder;
+ 	font-size: 28px;
+
+ }
+ #Hot{
+ 	background-color: red;
+   	text-align: center;
+   	width: 850px;
+   	margin: auto;
+   	padding-bottom: 8px;
+   	padding-top: 5px;
+   	color: white;
+   	padding-bottom: 20px;
+   	padding-top: 15px;
+
+ }
+ span{
+ 	font-weight: lighter;
+ }
+ .naira{
+ 	color:red;
+ 	font-weight: bold;
+ }
+ #image{
+ 	background:white;
+	border: 1;
+	width: 850px;
+	margin: auto;
+	padding-bottom: 15px;
+ }
